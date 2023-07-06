@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### Details
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatteoCus&show_icons=true&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Riccardo014&show_icons=true&theme=tokyonight" />
 
 
